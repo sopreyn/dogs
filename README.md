@@ -1,2 +1,2 @@
 # dogs repo
-this is stupid
+Toopy doobles dinky bingus
